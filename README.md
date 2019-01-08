@@ -16,7 +16,8 @@ Software:
 1. Connect the appropriate I/O headers from the RPi to the thermometer and the relay switch board(I will leave the details out since there are plenty of guides online to achieve this)
 2. Follow the tutorial to initiate the DS1820b thermometer
 3. copy and paste thermostat repo into a new directory in /home/pi/directory-name
-You should now be able to pull up the web app and test the relay switches. You should also see the current temperature displayed on the screen.
+4. From a new terminal, cd into the current working directory and type "python3 directory-name/app.py
+5. You should now be able to pull up the web app and test the relay switches. You should also see the current temperature displayed on the screen.
 
 
   
