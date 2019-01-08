@@ -19,5 +19,14 @@ Software:
 4. From a new terminal, cd into the current working directory and type `python3 directory-name/app.py`
 5. You should now be able to pull up the web app and test the relay switches. You should also see the current temperature displayed on the screen.
 
+### Auto-Start on System Boot
+If you are running Debian distro, you can edit the rc.local file to allow the python script to start when the computer is turned on.
+1. Open a new terminal
+2. navigate to /etc/ and type:
+3. `sudo nano rc.local`
+4. next add the line
+5. `sudo ../home/pi/dir-name/app.py`
+6. save the file and you are good to go.
+
 
   
