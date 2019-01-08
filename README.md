@@ -1,5 +1,5 @@
 # thermostat
-This is a simple, light-weight application for a home thermostat. This is a good starting point if you want to quickly get your own up and running. All of the base functionality is in place. Including multiprocessing to allow the server and thermostat to function simultansously and a minimalistic and stylish web application so you can control the temperature from your home.
+This is a simple, light-weight application for a home thermostat. This is a good starting point if you want to quickly get your own thermostat up and running. The point of this project was to keep it SIMPLE, LIGHT_WEIGHT and RESPONSIVE. All of the base functionality is in place. Including multiprocessing to allow the server and thermostat to function simultansously and a minimalistic and stylish web application so you can control the temperature from your home.
 
 ## Requirements
 Hardware:
