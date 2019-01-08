@@ -5,7 +5,7 @@ This is a simple, light-weight application for a home thermostat. This is a good
 Hardware:
 1. Rasberry-Pi (Zero-W is reccomended)
 2. DS18b20 Thermometer
-3. 4 port digital relay switch(number of channels and voltage requirements depends on your homes HVAC system).
+3. 4 port digital relay switch(number of channels and voltage requirements depends on your home HVAC system).
 
 Software:
 1. any linux distro(Debian is recommended and the latest version)
